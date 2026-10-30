@@ -1,0 +1,6 @@
+{
+  "name": "QuickPDF",
+  "description": "Fast, private, browser-based PDF utility suite to convert images to PDF, merge, split, compress PDFs, extract PNG images, and convert between PDF and Word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
